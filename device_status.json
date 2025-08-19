@@ -1,0 +1,29 @@
+{
+  "last_update": "2024-01-01T00:00:00Z",
+  "devices": [
+    {
+      "ip_address": "192.168.1.12",
+      "device_type": "camera",
+      "status": "available",
+      "occupied_by": null,
+      "occupied_at": null,
+      "last_update": "2024-01-01T00:00:00Z"
+    },
+    {
+      "ip_address": "192.168.1.10",
+      "device_type": "fpga_kongzhi",
+      "status": "available",
+      "occupied_by": null,
+      "occupied_at": null,
+      "last_update": "2024-01-01T00:00:00Z"
+    },
+    {
+      "ip_address": "192.168.1.11",
+      "device_type": "fpga_shiyan",
+      "status": "available",
+      "occupied_by": null,
+      "occupied_at": null,
+      "last_update": "2024-01-01T00:00:00Z"
+    }
+  ]
+}
