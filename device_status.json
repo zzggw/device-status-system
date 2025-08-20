@@ -7,7 +7,7 @@
             "last_update": "2024-01-01T00:00:00Z",
             "occupied_at": null,
             "occupied_by": null,
-            "status": "avaliable"
+            "status": "available"
         },
         {
             "device_type": "fpga_shiyan",
@@ -16,7 +16,7 @@
             "last_update": "2024-01-01T00:00:00Z",
             "occupied_at": null,
             "occupied_by": null,
-            "status": "avaliable"
+            "status": "available"
         },
         {
             "device_type": "camera",
@@ -25,7 +25,7 @@
             "last_update": "2024-01-01T00:00:00Z",
             "occupied_at": null,
             "occupied_by": null,
-            "status": "avaliable"
+            "status": "available"
         }
     ]
 }
