@@ -1,29 +1,28 @@
 {
-  "last_update": "2024-01-01T00:00:00Z",
-  "devices": [
-    {
-      "ip_address": "192.168.1.10",
-      "device_type": "fpga_kongzhi",
-      "status": "available",
-      "occupied_by": null,
-      "occupied_at": null,
-      "last_update": "2024-01-01T00:00:00Z"
-    },
-    {
-      "ip_address": "192.168.1.11",
-      "device_type": "fpga_shiyan",
-      "status": "available",
-      "occupied_by": null,
-      "occupied_at": null,
-      "last_update": "2024-01-01T00:00:00Z"
-    },
-    {
-      "ip_address": "192.168.1.12",
-      "device_type": "camera",
-      "status": "available",
-      "occupied_by": null,
-      "occupied_at": null,
-      "last_update": "2024-01-01T00:00:00Z"
-    }
-  ]
+    "devices": [
+        {
+            "device_type": "fpga_kongzhi",
+            "ip_address": "192.168.1.10",
+            "last_update": "2024-01-01T00:00:00Z",
+            "occupied_at": null,
+            "occupied_by": null,
+            "status": "occupied"
+        },
+        {
+            "device_type": "fpga_shiyan",
+            "ip_address": "192.168.1.11",
+            "last_update": "2024-01-01T00:00:00Z",
+            "occupied_at": null,
+            "occupied_by": null,
+            "status": "available"
+        },
+        {
+            "device_type": "camera",
+            "ip_address": "192.168.1.12",
+            "last_update": "2024-01-01T00:00:00Z",
+            "occupied_at": null,
+            "occupied_by": null,
+            "status": "available"
+        }
+    ]
 }
